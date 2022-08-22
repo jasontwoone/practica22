@@ -1,3 +1,0 @@
-([('main',
-   '/Users/son/Documents/usac/2022/lenguajes/practica 1/dist/main',
-   'EXECUTABLE')],)
